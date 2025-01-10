@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="26c58738-9ba8-4ed2-9632-0decebb14528" name="@localhost Mapping">
+      <data-sources db="0e9b9dce-27f3-4041-b7bc-9506f8a14f4a" ddl="a8f7c347-09ff-4a73-b1d1-e8229d7dc9db" />
+    </mapping>
+    <mapping uuid="9581d567-b1fa-4131-814a-463808e82907" name="REST-API@localhost Mapping">
+      <data-sources db="2ea36b31-0e8f-4de5-b0ae-1a9eaa129786" ddl="6b5ae2e0-3f0f-40ac-85a2-5f92edfd8f1f" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+    <mapping uuid="5f37f22d-ec68-48ad-b205-5adda05f9386" name="REST@localhost Mapping">
+      <data-sources db="0e9b9dce-27f3-4041-b7bc-9506f8a14f4a" />
+    </mapping>
+  </component>
+</project>
